@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello ${config.name}. Today is $2.
+echo Hello $name. Today is $day.
